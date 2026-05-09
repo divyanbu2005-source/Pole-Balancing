@@ -53,6 +53,9 @@ Train the agent for multiple episodes to improve balancing performance.
 # Program
 
 ```
+Name : Divya A
+Register number : 2305002007
+
 #Pole Balancing
 
 import numpy as np
